@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="container-custom py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-1">
-            <h2 className="text-2xl font-bold mb-4">AutomateAI</h2>
+            <h2 className="text-2xl font-bold mb-4">HolyLand Connect</h2>
             <p className="text-gray-300 mb-4">
               פתרון אוטומציה מתקדם המשלב AI והקלטות שיחה עם אינטגרציה מלאה לCRM
             </p>
@@ -93,7 +93,7 @@ const Footer = () => {
 
         <div className="text-center">
           <p className="text-gray-400">
-            &copy; {currentYear} AutomateAI. כל הזכויות שמורות.
+            &copy; {currentYear} HolyLand Connect. כל הזכויות שמורות.
           </p>
         </div>
       </div>
