@@ -7,19 +7,19 @@ const TestimonialSection = () => {
       quote: "מערכת האוטומציה חסכה לנו שעות עבודה בכל יום ושיפרה את שירות הלקוחות שלנו באופן דרמטי.",
       author: "רון לוי",
       company: "לוי נכסים",
-      image: "https://randomuser.me/api/portraits/men/32.jpg",
+      image: "https://randomuser.me/api/portraits/men/52.jpg",
     },
     {
       quote: "החיבור למערכת ה-CRM שלנו היה פשוט וההתראות בוואטסאפ עוזרות לנו להגיב מהר יותר ללקוחות.",
       author: "מיכל כהן",
       company: "שירותי הובלות כהן",
-      image: "https://randomuser.me/api/portraits/women/44.jpg",
+      image: "https://randomuser.me/api/portraits/women/28.jpg",
     },
     {
       quote: "הפקת ההצעות האוטומטיות והסנכרון עם היסטוריית הלקוחות חוסכים לנו זמן יקר ומשאבים רבים.",
       author: "דוד ישראלי",
       company: "פתרונות לעסקים",
-      image: "https://randomuser.me/api/portraits/men/67.jpg",
+      image: "https://randomuser.me/api/portraits/men/33.jpg",
     },
   ];
 

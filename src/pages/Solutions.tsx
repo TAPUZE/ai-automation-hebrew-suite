@@ -16,7 +16,7 @@ const Solutions = () => {
         "סנכרון מלא עם מערכות CRM ייעודיות לנדל״ן",
         "התראות בזמן אמת על התעניינות גבוהה או שינויים בעסקה"
       ],
-      imageSrc: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      imageSrc: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "services",
@@ -28,7 +28,7 @@ const Solutions = () => {
         "סנכרון נתונים עם מערכות ניהול שירות ותמיכה",
         "שיפור זמני התגובה וחווית השירות ללקוחות"
       ],
-      imageSrc: "https://images.unsplash.com/photo-1521791055366-0d553381c014?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      imageSrc: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "logistics",
@@ -40,7 +40,7 @@ const Solutions = () => {
         "התראות בזמן אמת על שינויים בלוח הזמנים",
         "סנכרון נתונים עם מערכות ניהול צי רכב ומעקב משלוחים"
       ],
-      imageSrc: "https://images.unsplash.com/photo-1553413077-190dd305871c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+      imageSrc: "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
     }
   ];
 

@@ -21,7 +21,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <img
-                src="https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
                 alt="צוות החברה"
                 className="rounded-xl shadow-lg w-full"
               />
@@ -32,7 +32,7 @@ const About = () => {
                 <span className="gradient-text">הסיפור שלנו</span>
               </h2>
               <p className="text-lg text-gray-700 mb-4 text-right leading-relaxed">
-                חברת AutomateAI הוקמה בשנת 2020 על ידי צוות מהנדסים ומומחי AI מובילים בישראל, עם חזון להפוך את הטכנולוגיה המתקדמת ביותר לנגישה עבור עסקים מכל הגדלים.
+                חברת Holyland Connect הוקמה בשנת 2020 על ידי צוות מהנדסים ומומחי AI מובילים בישראל, עם חזון להפוך את הטכנולוגיה המתקדמת ביותר לנגישה עבור עסקים מכל הגדלים.
               </p>
               <p className="text-lg text-gray-700 text-right leading-relaxed">
                 לאחר שנים של פיתוח וניסיון בתחומי האוטומציה, הבינה המלאכותית ועיבוד שפה טבעית, פיתחנו את מערכת האוטומציה המלאה הראשונה שמשלבת הקלטת שיחות, עיבוד AI, ואינטגרציה מלאה למערכות CRM - הכל בממשק אחד פשוט וידידותי.
@@ -55,7 +55,7 @@ const About = () => {
             
             <div className="order-1 md:order-2">
               <img
-                src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1497215842964-222b430dc094?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
                 alt="חזון החברה"
                 className="rounded-xl shadow-lg w-full"
               />
@@ -117,7 +117,7 @@ const About = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="tech-card">
                 <img
-                  src="https://randomuser.me/api/portraits/men/32.jpg"
+                  src="https://randomuser.me/api/portraits/men/42.jpg"
                   alt="יוסי כהן"
                   className="w-32 h-32 rounded-full mx-auto mb-4"
                 />
@@ -130,7 +130,7 @@ const About = () => {
 
               <div className="tech-card">
                 <img
-                  src="https://randomuser.me/api/portraits/women/44.jpg"
+                  src="https://randomuser.me/api/portraits/women/23.jpg"
                   alt="מיכל לוי"
                   className="w-32 h-32 rounded-full mx-auto mb-4"
                 />
@@ -143,7 +143,7 @@ const About = () => {
 
               <div className="tech-card">
                 <img
-                  src="https://randomuser.me/api/portraits/men/67.jpg"
+                  src="https://randomuser.me/api/portraits/men/77.jpg"
                   alt="דוד אברהם"
                   className="w-32 h-32 rounded-full mx-auto mb-4"
                 />

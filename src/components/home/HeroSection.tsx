@@ -28,15 +28,22 @@ const HeroSection = () => {
           <div className="order-1 lg:order-2 animate-fade-in">
             <div className="relative mx-auto max-w-md lg:max-w-full">
               <div className="aspect-video relative bg-white p-2 rounded-2xl shadow-2xl overflow-hidden">
-                {/* Replace with actual demo video or animation */}
-                <div className="absolute inset-0 flex items-center justify-center bg-gray-100 rounded-lg">
-                  <svg className="w-16 h-16 text-brand" fill="currentColor" viewBox="0 0 20 20">
-                    <path
-                      fillRule="evenodd"
-                      d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
+                {/* Video placeholder showing Israeli tech innovation */}
+                <div className="absolute inset-0 rounded-lg overflow-hidden">
+                  <img 
+                    src="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
+                    alt="Holyland Connect AI Solutions"
+                    className="w-full h-full object-cover opacity-50"
+                  />
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <svg className="w-16 h-16 text-brand" fill="currentColor" viewBox="0 0 20 20">
+                      <path
+                        fillRule="evenodd"
+                        d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z"
+                        clipRule="evenodd"
+                      />
+                    </svg>
+                  </div>
                 </div>
               </div>
               
