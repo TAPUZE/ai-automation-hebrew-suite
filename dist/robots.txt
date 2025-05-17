@@ -1,0 +1,24 @@
+
+# Robots.txt for HolyLand Connect Software Solutions
+
+# Allow all robots to access the entire website
+User-agent: *
+Allow: /
+
+# Allow Googlebot to access everything
+User-agent: Googlebot
+Allow: /
+
+# Allow Bingbot to access everything
+User-agent: Bingbot
+Allow: /
+
+# Allow social media bots
+User-agent: Twitterbot
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap location (to be added when sitemap is created)
+Sitemap: https://holylandconnect.com/sitemap.xml
+
