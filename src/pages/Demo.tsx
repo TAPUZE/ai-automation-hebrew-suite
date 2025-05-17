@@ -20,6 +20,8 @@ const Demo = () => {
       title: "בקשה לדמו נשלחה בהצלחה",
       description: "נציג יצור איתך קשר בהקדם לתיאום הדגמה. תודה!",
     });
+    
+    // In a real implementation, you would send this data to office@holylandconnect.com
   };
 
   const demoTimes = [
@@ -173,6 +175,10 @@ const Demo = () => {
               <Button type="submit" className="w-full bg-brand hover:bg-brand-dark text-white py-6">
                 {demoType === "video" ? "קבל גישה להדגמת וידאו" : "תאם הדגמה"}
               </Button>
+              
+              <p className="text-sm text-gray-500 text-center mt-2">
+                ניתן ליצור קשר גם ישירות בטלפון <a href="tel:+972585315415" className="text-brand">+972-58-5315415</a> או במייל <a href="mailto:office@holylandconnect.com" className="text-brand">office@holylandconnect.com</a>
+              </p>
             </form>
           </div>
         </div>

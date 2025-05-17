@@ -134,7 +134,7 @@ const Contact = () => {
                   <div className="flex-1">
                     <h3 className="font-bold mb-1 text-right">טלפון</h3>
                     <p className="text-gray-600 text-right">
-                      <a href="tel:+972000000000" className="hover:text-brand">972-00-0000000+</a>
+                      <a href="tel:+972585315415" className="hover:text-brand">972-58-5315415+</a>
                     </p>
                   </div>
                 </div>
@@ -148,7 +148,7 @@ const Contact = () => {
                   <div className="flex-1">
                     <h3 className="font-bold mb-1 text-right">דוא"ל</h3>
                     <p className="text-gray-600 text-right">
-                      <a href="mailto:info@automate-ai.co.il" className="hover:text-brand">info@automate-ai.co.il</a>
+                      <a href="mailto:office@holylandconnect.com" className="hover:text-brand">office@holylandconnect.com</a>
                     </p>
                   </div>
                 </div>
@@ -160,7 +160,7 @@ const Contact = () => {
                   <div className="flex-1">
                     <h3 className="font-bold mb-1 text-right">וואטסאפ</h3>
                     <p className="text-gray-600 text-right">
-                      <a href="https://wa.me/972000000000" className="hover:text-brand">צור קשר בוואטסאפ</a>
+                      <a href="https://wa.me/972585315415" className="hover:text-brand">צור קשר בוואטסאפ</a>
                     </p>
                   </div>
                 </div>

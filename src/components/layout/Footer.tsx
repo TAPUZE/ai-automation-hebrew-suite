@@ -16,10 +16,10 @@ const Footer = () => {
               פתרון אוטומציה מתקדם המשלב AI והקלטות שיחה עם אינטגרציה מלאה לCRM
             </p>
             <div className="flex space-x-4 space-x-reverse">
-              <a href="https://wa.me/972000000000" className="text-gray-300 hover:text-brand">
+              <a href="https://wa.me/972585315415" className="text-gray-300 hover:text-brand">
                 <MessageSquare className="h-6 w-6" />
               </a>
-              <a href="tel:+972000000000" className="text-gray-300 hover:text-brand">
+              <a href="tel:+972585315415" className="text-gray-300 hover:text-brand">
                 <Phone className="h-6 w-6" />
               </a>
             </div>
@@ -81,10 +81,10 @@ const Footer = () => {
             <h3 className="text-lg font-bold mb-4">צור קשר</h3>
             <p className="text-gray-300 mb-2">רח׳ הברזל 30, תל אביב</p>
             <p className="text-gray-300 mb-2">
-              <a href="mailto:info@automate-ai.co.il">info@automate-ai.co.il</a>
+              <a href="mailto:office@holylandconnect.com">office@holylandconnect.com</a>
             </p>
             <p className="text-gray-300">
-              <a href="tel:+972000000000">972-00-0000000+</a>
+              <a href="tel:+972585315415">972-58-5315415+</a>
             </p>
           </div>
         </div>
