@@ -1,4 +1,3 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
 import { Phone, MessageSquare } from "lucide-react";
@@ -79,7 +78,7 @@ const Footer = () => {
 
           <div>
             <h3 className="text-lg font-bold mb-4">צור קשר</h3>
-            <p className="text-gray-300 mb-2">רח׳ הברזל 30, תל אביב</p>
+            <p className="text-gray-300 mb-2">רח׳ החקלאי 24, מנחמיה</p>
             <p className="text-gray-300 mb-2">
               <a href="mailto:office@holylandconnect.com">office@holylandconnect.com</a>
             </p>
