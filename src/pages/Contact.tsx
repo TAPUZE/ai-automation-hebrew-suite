@@ -73,7 +73,7 @@ const Contact = () => {
                     type="email"
                     required
                     className="w-full p-3 border border-gray-300 rounded-lg text-right"
-                    placeholder="הכנס את כתובת הדוא"ל שלך"
+                    placeholder="הכנס את כתובת הדוא״ל שלך"
                   />
                 </div>
                 
